@@ -8,6 +8,8 @@ I'm a software engineer and classical musician. Currently working in Ruby on Rai
 
 Formerly, I planned and produced concerts with the Colorado Symphony, bringing a wide range of guest musicians to perform with the orchestra from Yo-Yo Ma to The Flaming Lips.
 
+In my spare time you will find me hiking, skiing, making music, and supporting Arsenal 🔴⚪️
+
 <!-- This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/) -->
 
 <!-- You can find the source code for Minima at GitHub:
