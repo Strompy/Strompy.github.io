@@ -4,7 +4,11 @@ title: About
 permalink: /about/
 ---
 
-I'm a software engineer and classical musician. Formerly I planned and produced concerts with the Colorado Symphony, bringing in diverse guest musicians from Yo-Yo Ma to The Flaming Lips.
+I'm a software engineer and classical musician. Currently working in Ruby on Rails.
+
+Formerly, I planned and produced concerts with the Colorado Symphony, bringing a wide range of guest musicians to perform with the orchestra from Yo-Yo Ma to The Flaming Lips.
+
+In my spare time you'll find me hiking, skiing, making music, and supporting Arsenal 🔴⚪️
 
 <!-- This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/) -->
 
@@ -17,4 +21,4 @@ You can find the source code for Jekyll at GitHub:
 [jekyll](https://github.com/jekyll/jekyll) -->
 
 
-Made with [jekyll-organization]: https://github.com/jekyll
+Made with [jekyll-organization](https://github.com/jekyll)
