@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Welcome!"
+date:   2021-03-24 17:56:58 -0700
+categories: jekyll update
+---
+
+
+Welcome!
+I'm Phillip, Software Engineer, Clarinet Player, Husband, outdoorsman, music lover, movie lover, pizza lover, Coloradan, etc.
+
+To see some of my work check out my
+<a href="{{ base.url }}/portfolio"><strong>Portfolio</strong></a>.
+
+We will see if there will be much if any blogging involved, I would like to write up post about things I am working on and learning about but aspirations don't always equal reality. So more to come, maybe, possibly...
