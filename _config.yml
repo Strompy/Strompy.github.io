@@ -21,10 +21,11 @@
 title: Phillip Strom
 email: # your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Software Engineer 
+  Software Engineer
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: phillipstrom
+social_link: twitter
+social_username: phillipstrom
 github_username:  Strompy
 
 # Build settings
