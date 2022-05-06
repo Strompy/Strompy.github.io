@@ -5,7 +5,7 @@ permalink: /about/
 ---
 Hi! I'm, Phillip
 
-![Me](/assets/Photo.jpg)
+![Me](/assets/potrait.jpg)
 
 
 I'm a software engineer and classical musician. Currently working in Ruby on Rails.
