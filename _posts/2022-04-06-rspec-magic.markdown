@@ -2,7 +2,6 @@
 layout: post
 author: Phillip
 title: "RSpec: Let's Describe Context"
-date: 2022-04-06 16:37:27 -0600
 categories: Ruby Rspec
 ---
 

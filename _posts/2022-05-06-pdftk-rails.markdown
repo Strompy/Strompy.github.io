@@ -1,8 +1,7 @@
 ---
 layout: post
 author: Phillip
-title: "Working with PDF Forms in Rails"
-date: 2022-05-06 14:31:27 -0600
+title: Using Rails to Fill out PDF Forms
 categories: Ruby Rails pdftk
 ---
 

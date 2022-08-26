@@ -2,7 +2,6 @@
 layout: post
 author: Phillip
 title:  "Welcome!"
-date:   2021-03-24 17:56:58 -0700
 categories: jekyll update
 ---
 
