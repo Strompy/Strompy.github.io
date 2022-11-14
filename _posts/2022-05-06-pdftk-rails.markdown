@@ -5,6 +5,8 @@ title: "How to Fill out PDF Forms using Ruby on Rails"
 categories: Ruby Rails pdftk
 ---
 
+_This post was first published on the [Brewer Digital Engineering Blog](https://brewerdigital.com/engineering/working-with-pdf-forms-in-rails/)_
+
 <h1>PDFTK and the pdf-forms Gem</h1>
 
 I recently needed a Ruby on Rails backend to fill out PDF Forms, aka those PDFs with editable fields so you can insert text fields, checkboxes, signatures, etc in the file. There weren't too many guides out there about this particular topic, so I wrote down some of what I learned.

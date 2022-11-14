@@ -5,6 +5,8 @@ title: "RSpec: Let's Describe Context"
 categories: Ruby Rspec
 ---
 
+_This post was created from a talk I gave at Boulder Ruby and was first published on the [Brewer Digital Engineering Blog](https://brewerdigital.com/engineering/testing-ruby-with-rspec-magic/)_
+
 <h1>RSpec Magic</h1>
 RSpec is a popular Ruby testing framework that provides a lot of powerful features for you to poke and prod your apps to get them ready for production. Developers can learn the basic structure of tests fairly quickly but the magic-like syntax can be confusing, especially to early learners. So let’s dive into some of the building blocks of a spec.
 
