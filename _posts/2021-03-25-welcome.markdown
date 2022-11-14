@@ -7,7 +7,7 @@ categories: jekyll update
 
 
 Welcome!
-I'm Phillip. Software engineer, clarinet player, husband, outdoorsman, music lover, movie lover, pizza lover, Coloradan, etc.
+I'm Phillip. 
 
 To see some of my work check out my
 <a href="{{ base.url }}/portfolio"><strong>Portfolio</strong></a>.
