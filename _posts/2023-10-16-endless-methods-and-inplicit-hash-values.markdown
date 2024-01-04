@@ -40,7 +40,7 @@ The one-line syntax encourages the method to be simple and concise. It is hard t
 
 <h2>Omitting hash literal values</h2>
 
-Implicit hash literal values is a feature that has been in JavaScript for some time, but has now come to Ruby and fits right in with the [syntactical sugar](https://phillipstrom.com/ruby/rspec/2022/04/06/rspec-magic.html) the language has already embraced.
+Implicit hash literal values is a feature that has been in JavaScript for some time, but has now come to Ruby and fits right in with the [syntactical sugar]({% post_url 2022-04-06-rspec-magic %}) the language has already embraced.
 
 When dealing with key/value pairs, previously we had to always write out the key and the value.
 
