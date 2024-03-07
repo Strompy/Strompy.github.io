@@ -5,15 +5,11 @@ permalink: /about/
 ---
 Hi! I'm, Phillip
 
-![Me](/assets/potrait.jpg)
 
-
-I'm a software engineer and classical musician. Currently working in Ruby on Rails.
+I'm a software engineer and classical musician.
 
 Formerly, I planned and produced concerts with the Colorado Symphony, bringing a wide range of guest musicians to perform with the orchestra from Yo-Yo Ma to The Flaming Lips.
 
-
-![Yo-Yo Ma](/assets/yo_yo_ma.jpeg)
 
 In my spare time you'll find me hiking, skiing, making music, and supporting Arsenal 🔴⚪️
 
